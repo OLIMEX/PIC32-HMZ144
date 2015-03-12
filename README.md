@@ -6,18 +6,18 @@ https://www.olimex.com/Products/PIC/Development/PIC32-HMZ144/open-source-hardwar
 
 Features:
 
--Completely OSHW (Open-Source HardWare)
--PIC32MZ2048EHC144 512KB RAM 2MB Flash
--USB-OTG connector
--MicroSD card connector
--Standard ICSP for debugging and programming
--JTAG pins exposed on 0.1" step 6 pins
--EXT1 and EXT2 50 pin 0.1" connectors for all PIC ports
--RESET and USER buttons
--PWR and STATUS LEDs
--LiPo battery charger and connector
--UEXT connector
--Dimensions: 77 x 52 mm
+*Completely OSHW (Open-Source HardWare)
+*PIC32MZ2048ECG144 512KB RAM 2MB Flash
+*USB-OTG connector
+*MicroSD card connector
+*Standard ICSP for debugging and programming
+*JTAG pins exposed on 0.1" step 6 pins
+*EXT1 and EXT2 50 pin 0.1" connectors for all PIC ports
+*RESET and USER buttons
+*PWR and STATUS LEDs
+*LiPo battery charger and connector
+*UEXT connector
+*Dimensions: 77 x 52 mm
 
 Demo-software can be found in the software section of the board's web-page. 
 
