@@ -42,3 +42,9 @@ Hardware revisions:
 3. Removed quartz Q1. Q1, C29, C32 and R30 were changed to NA - this is because of the errata sheets of both chips. Refer to 4;
 4. Added oscillator CD1 instead. CD1 is 24MHz oscillator;
 5. Q2, C30 and C31 were changed to NA.
+
+* Revision C2:
+
+  Only difference compared to C1 is a typo in the schematic values, R36 should be marked as 150 Ohm resistor. 
+  
+  No boards with R36 = 1.5k were ever produced.
