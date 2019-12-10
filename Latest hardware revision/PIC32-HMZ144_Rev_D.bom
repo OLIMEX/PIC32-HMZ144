@@ -1,0 +1,55 @@
+Partlist exported from Z:/SVN_Checkout/PIC32-HMZ144/Hardware/trunk/BRD/PIC32-HMZ144_Rev_D.sch at 20.10.2017 15:17:27 
+
+Qty Value                                            Device                                                               Parts                                                                            
+2   0R(Board_Mounted)                                R_0R0R(NA)                                                           R10, R12                                                                         
+1   1.1k/1%                                          R-EU_R0603_5MIL_DWS                                                  R33                                                                              
+1   1M/1%                                            R-EU_R0603                                                           R9                                                                               
+1   1N5819(S4SOD-123)                                SCHOTKKY7.62SS-1N5819(S4SOD-123)                                     D1                                                                               
+2   1N5819(SS14)                                     SCHOTKKY7.62SS2                                                      D2, D3                                                                           
+3   1k                                               R-EU_R0603                                                           R3, R22, R27                                                                     
+2   2.2k                                             R-EU_R0603                                                           R13, R15                                                                         
+1   2.2uH/1.5A/DCR<0.1R/CD32                         L-CD32                                                               L4                                                                               
+1   3M                                               R-EU_R0603                                                           R8                                                                               
+1   4.99k/1%                                         R-EU_R0603_5MIL_DWS                                                  R32                                                                              
+4   10k                                              R-EU_R0603                                                           R4, R21, R24, R25                                                                
+2   10nF                                             C-EUC0603                                                            C8, C15                                                                          
+5   10uF/6.3V                                        C-EUC0603                                                            C7, C13, C16, C17, C25                                                           
+1   13k/1%                                           R-EU_R0603                                                           R6                                                                               
+1   15k                                              R-EU_R0603                                                           R11                                                                              
+9   22uF/6.3V                                        C-EUC0603                                                            C1, C2, C3, C4, C6, C12, C14, C33, C34                                           
+1   27pF                                             C-EUC0603                                                            C37                                                                              
+3   47k                                              R-EU_R0603                                                           R2, R14, R16                                                                     
+3   100k                                             R-EU_R0603                                                           R5, R7, R23                                                                      
+17  100nF                                            C-EUC0603                                                            C5, C9, C10, C11, C18, C19, C20, C21, C22, C23, C24, C26, C27, C28, C35, C38, C39
+4   330R                                             R-EU_R0603                                                           R1, R26, R28, R29                                                                
+1   DW02R                                            CON2DW02R                                                            3.7V-LI_BAT                                                                      
+1   F535L-24(24MHz/50ppm/3.3V/5.00x3.20mm)           6NC2_CLOCK_DRIVER5032_4P                                             CD1                                                                              
+4   FB0805/600R/2A                                   L-USL0805_5MIL_DWS                                                   FB1, L1, L2, L3                                                                  
+3   FIDUCIAL                                         FIDUCIAL                                                             U$1, U$2, U$3                                                                    
+1   GBH-254-SMT-10                                   ML10-(GBH-254-SMT-10)_TEST                                           UEXT                                                                             
+1   KK3270046(32.768KHZ/25PPM/3.3V/3.20X2.50X1.00MM) 6NC2_CLOCK_DRIVER-KK3270046(32.768KHZ/25PPM/3.3V/3.20X2.50X1.00MM)   CD2                                                                              
+1   LED/GREEN/0603                                   LEDLED-0603_TEST                                                     LED1                                                                             
+1   LED/RED/0603                                     LEDLED-0603_TEST                                                     PWR_LED                                                                          
+1   MCP73812T-420I/OT                                MCP7381XSOT-23-5                                                     U2                                                                               
+2   NA                                               FE25-2FEMALE                                                         EXT1, EXT2                                                                       
+7   NA                                               R-EU_R0603                                                           R17, R18, R19, R20, R31, R34, R35                                                
+1   NA(1M/1%)                                        R-EU_R0603                                                           R30                                                                              
+1   NA(1k/1%)                                        R-EU_R0603                                                           R37                                                                              
+1   NA(10k)                                          R-EU_R0603                                                           R36                                                                              
+2   NA(10pF)                                         C-EUC0603                                                            C30, C31                                                                         
+2   NA(20pF)                                         C-EUC0603                                                            C29, C32                                                                         
+1   NA(100nF)                                        C-EUC0603                                                            C36                                                                              
+1   NA(AP431SA)                                      TL431'''                                                             SR1                                                                              
+1   NA(HN1X6)                                        CON6HN1X6                                                            JTAG                                                                             
+1   NA(MC-306_32.768KHz/6pF)                         MC-306_MC-306-TEST                                                   Q2                                                                               
+1   NA(Q12.000MHz/HC-49S/SMD/20pF/30ppm)             HC49/SHC49/SMD_THIN&SHORT                                            Q1                                                                               
+1   PIC32MZ2048EFG144-I/PH                           PIC32MZ2048ECG144-I/PH                                               U1                                                                               
+1   RA1206_(4X0603)-100k                             R_MATRIX_4E                                                          RM1                                                                              
+1   SY6280                                           SY6280                                                               U3                                                                               
+1   SY8089AAAC(SOT23-5)                              SY8008                                                               U4                                                                               
+2   T1107A(6X3,8X2,5MM)                              SW-TAKTT1107A(6X3,8X2,5MM)                                           BUT, RST                                                                         
+1   TESTPAD3                                         TESTPAD3                                                             GND_PIN                                                                          
+1   TFC-9P-1.5H(ATFFS150A01BR016)                    MICRO_SD/TFC-9P-1.5H(ATFFS150A01BR016)-TFC-9P-1.5H(ATFFS150A01BR016) MICRO-SD                                                                         
+1   USB-OTG                                          MINI_USB9                                                            USB                                                                              
+1   WF6S                                             CON62.54-0-D                                                         ICSP                                                                             
+1   WPM2015-3/TR(SOT23-3)                            IRLML6402                                                            FET1                                                                             

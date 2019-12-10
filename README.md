@@ -48,3 +48,25 @@ Hardware revisions:
   Only difference compared to C1 is a typo in the schematic values, R36 should be marked as 150 Ohm resistor. 
   
   No boards with R36 = 1.5k were ever produced.
+  
+  
+* Revision D:
+
+1. The PIC was changed from PIC32MZ2048ECG144T-I/PH to PIC32MZ2048EFM144T-I/PH 
+2. According to the PIC32MZ2048 errata sheets:
+
+- Primary oscillator crystal, revision A3 silicon: the primary oscillator has been tested in a normal power-up sequence and supports specific crystal operation.
+- The secondary oscillator (SOSC) does not support crystal operation.
+
+Because of this we have added 2 oscillators and have changed the 2 crystals with all corresponding components to NA.
+
+3. One resistor added in series to the 24MHz's crystal. Check the errata sheet for PIC32MZ2048EFM144-I/PH silicon revision A3.
+4. PWR_LED and LED1 packages changed.
+5. The open source hardware logo was added to the bottom silkscreen.
+6. U4 changed from SY8009AAAC(SOT23-5) to SY8089AAAC(SOT23-5).
+7. L3 changed from CL470nH/0805/1.76R/250mA to FB0805/600R/2A.
+8. FET1 changed from IRLML6402 to WPM2015-3/TR(SOT23-3).
+9. Few spacing improvements:
+	9.1. The USB-OTG's connector moved 1.00mm towards the middle of the board;
+	9.2. The MICRO-SD card's package changed from TFC-WPAPR-08 to TFC-9P-1.5H(ATFFS150A01BR016);
+10. UEXT's and Q2's packages improved.
