@@ -4,10 +4,10 @@ Product web-page:
 
 https://www.olimex.com/Products/PIC/Development/PIC32-HMZ144/open-source-hardware
 
-Features:
+Latest revision features:
 
 * Completely OSHW (Open-Source HardWare)
-* PIC32MZ2048EFG144 512KB RAM 2MB Flash (was PIC32MZ2048ECG144 prior to 20.10.2017)
+* PIC32MZ2048EFM144 512KB RAM 2MB Flash (other versions of the chip were used for older revisions)
 * USB-OTG connector
 * MicroSD card connector
 * Standard ICSP for debugging and programming
